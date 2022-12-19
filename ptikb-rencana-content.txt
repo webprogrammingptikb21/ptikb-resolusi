@@ -4,6 +4,7 @@ RENCANA KONTEN PTIKB
   * ES6
   * framework javascript
     ^ vue
+    ^ react
 - struktur data dasar
 - php frameworks
    ^ Laravel
