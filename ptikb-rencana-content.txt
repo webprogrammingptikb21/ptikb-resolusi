@@ -3,9 +3,11 @@ RENCANA KONTEN PTIKB
 - javascript
   * ES6
   * framework javascript
-    ^ angular
+    ^ vue
     ^ react
+- struktur data dasar
 - php frameworks
-  ^ laravel
+   ^ Laravel
 - interview
 - vlogs
+- python
