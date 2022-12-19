@@ -1,0 +1,8 @@
+RENCANA KONTEN PTIKB
+
+- javascript
+  * ES6
+  * framework javascript
+- php frameworks
+- interview
+- vlogs
